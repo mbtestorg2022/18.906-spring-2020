@@ -4,7 +4,7 @@ title: Lecture Notes
 uid: 64448bff-263d-c13c-7710-87c317c5f175
 ---
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Complete lecture notes (PDF - 1.4MB)]({{< baseurl >}}/resources/mit18_906s20_notes)
+[Complete lecture notes (PDF - 1.4MB)]({{< baseurl >}}/resources/mit18_906s20_notes)
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -21,7 +21,7 @@ TOPICS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)**[Basic Homotopy Theory (PDF)]({{< baseurl >}}/resources/mit18_906s20_ch1)** 
+**[Basic Homotopy Theory (PDF)]({{< baseurl >}}/resources/mit18_906s20_ch1)** 
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +108,7 @@ Homotopy Long Exact Sequence and Homotopy Fibers
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)**[The Homotopy Theory of CW Complexes (PDF)]({{< baseurl >}}/resources/mit18_906s20_ch2)**  
+**[The Homotopy Theory of CW Complexes (PDF)]({{< baseurl >}}/resources/mit18_906s20_ch2)**  
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +168,7 @@ Obstruction Theory
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)**[Vector Bundles and Principal Bundles (PDF)]({{< baseurl >}}/resources/mit18_906s20_ch3)**  
+**[Vector Bundles and Principal Bundles (PDF)]({{< baseurl >}}/resources/mit18_906s20_ch3)**  
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -228,7 +228,7 @@ The Čech Category and Classifying Maps
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)**[Spectral Sequences and Serre Classes (PDF)]({{< baseurl >}}/resources/mit18_906s20_ch4)** 
+**[Spectral Sequences and Serre Classes (PDF)]({{< baseurl >}}/resources/mit18_906s20_ch4)** 
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -334,7 +334,7 @@ Freudenthal, James, and Bousfield
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)**[Characteristic Classes, Steenrod Operations, and Cobordism (PDF)]({{< baseurl >}}/resources/mit18_906s20_ch5)** 
+**[Characteristic Classes, Steenrod Operations, and Cobordism (PDF)]({{< baseurl >}}/resources/mit18_906s20_ch5)** 
 {{< tdclose >}}
 
 {{< trclose >}}
