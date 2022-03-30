@@ -12,7 +12,7 @@ Lectures: 3 sessions / week, 1 hour / session
 Prerequisites
 -------------
 
-[_18.905 Algebraic Topology I_](/courses/18-905-algebraic-topology-i-fall-2016/)
+[_18.905 Algebraic Topology I_](/courses/18-905-algebraic-topology-i-fall-2016)
 
 Description
 -----------
